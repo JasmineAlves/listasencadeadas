@@ -31,3 +31,5 @@ int main(void){
     getchar();
     return 0;
 }
+
+// LINK DE ACESSO PARA VÍDEO: https://youtu.be/bCaHRCKZZlc?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW
